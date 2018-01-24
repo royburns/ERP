@@ -2,7 +2,7 @@ package product
 
 import (
 	"bytes"
-	"goERP/controllers/base"
+	"github.com/royburns/goERP/controllers/base"
 )
 
 type ProductPackagingController struct {

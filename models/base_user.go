@@ -2,7 +2,7 @@ package models
 
 import (
 	"errors"
-	"goERP/utils"
+	"github.com/royburns/goERP/utils"
 	"strings"
 	"time"
 

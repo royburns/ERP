@@ -3,8 +3,8 @@ package address
 import (
 	"bytes"
 	"encoding/json"
-	cb "goERP/controllers/base"
-	md "goERP/models"
+	cb "github.com/royburns/goERP/controllers/base"
+	md "github.com/royburns/goERP/models"
 	"strconv"
 
 	"strings"

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"goERP/utils"
+	"github.com/royburns/goERP/utils"
 	"strconv"
 	"strings"
 	"time"

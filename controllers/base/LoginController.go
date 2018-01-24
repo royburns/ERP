@@ -1,6 +1,6 @@
 package base
 
-import md "goERP/models"
+import md "github.com/royburns/goERP/models"
 
 // LoginController login controller
 type LoginController struct {

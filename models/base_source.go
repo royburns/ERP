@@ -3,7 +3,7 @@ package models
 import (
 	"errors"
 	"fmt"
-	"goERP/utils"
+	"github.com/royburns/goERP/utils"
 
 	"strings"
 	"time"

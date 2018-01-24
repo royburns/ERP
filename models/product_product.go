@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"goERP/utils"
+	"github.com/royburns/goERP/utils"
 
 	"strconv"
 

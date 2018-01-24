@@ -3,7 +3,7 @@ package init
 import (
 	"errors"
 
-	. "goERP/utils"
+	. "github.com/royburns/goERP/utils"
 	"path/filepath"
 	"strings"
 	"time"

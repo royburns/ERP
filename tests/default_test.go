@@ -1,7 +1,7 @@
 package test
 
 import (
-	_ "goERP/routers"
+	_ "github.com/royburns/goERP/routers"
 	"net/http"
 	"net/http/httptest"
 	"path/filepath"

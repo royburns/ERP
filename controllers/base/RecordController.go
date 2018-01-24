@@ -3,7 +3,7 @@ package base
 import (
 	"bytes"
 	"encoding/json"
-	md "goERP/models"
+	md "github.com/royburns/goERP/models"
 )
 
 // RecordController 登录日志

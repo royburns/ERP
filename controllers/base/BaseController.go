@@ -1,9 +1,9 @@
 package base
 
 import (
-	. "goERP/init"
-	md "goERP/models"
-	. "goERP/utils"
+	. "github.com/royburns/goERP/init"
+	md "github.com/royburns/goERP/models"
+	. "github.com/royburns/goERP/utils"
 	"html/template"
 	"strings"
 	"time"

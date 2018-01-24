@@ -2,7 +2,7 @@ package product
 
 import (
 	"bytes"
-	"goERP/controllers/base"
+	"github.com/royburns/goERP/controllers/base"
 )
 
 // ProductAttributePriceController 款式属性价格

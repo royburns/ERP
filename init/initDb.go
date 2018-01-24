@@ -3,7 +3,7 @@ package init
 
 import (
 	"encoding/xml"
-	md "goERP/models"
+	md "github.com/royburns/goERP/models"
 	"io/ioutil"
 	"os"
 	"runtime"

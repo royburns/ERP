@@ -2,8 +2,8 @@ package product
 
 import (
 	"bytes"
-	"goERP/controllers/base"
-	md "goERP/models"
+	"github.com/royburns/goERP/controllers/base"
+	md "github.com/royburns/goERP/models"
 	"strings"
 )
 

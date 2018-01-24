@@ -1,6 +1,6 @@
 package sale
 
-import "goERP/controllers/base"
+import "github.com/royburns/goERP/controllers/base"
 
 type SaleReportController struct {
 	base.BaseController

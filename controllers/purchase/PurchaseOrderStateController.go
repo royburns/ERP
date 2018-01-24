@@ -3,8 +3,8 @@ package purchase
 import (
 	"bytes"
 	"encoding/json"
-	"goERP/controllers/base"
-	md "goERP/models"
+	"github.com/royburns/goERP/controllers/base"
+	md "github.com/royburns/goERP/models"
 	"strconv"
 	"strings"
 )
