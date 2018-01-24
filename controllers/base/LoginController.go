@@ -18,7 +18,7 @@ func (ctl *LoginController) Get() {
 		if user != nil {
 			ctl.Redirect("/", 302)
 		}
-		ctl.TplName = "login.html"
+		ctl.TplName = "views/login.html"
 	}
 
 }
